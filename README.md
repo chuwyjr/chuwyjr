@@ -1,5 +1,3 @@
-![drawing](stars.jpg =250x)
-
 
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, i'm Jose.
 
@@ -9,8 +7,9 @@
 - 🌱 Learning in <k style="color:blue">progress.</k>
 - 📂 I looking forward to collaborating with others on projects.
 - 💻 _2020 Goals_ contributing to more Open Source projects.
-![](1-ANIMATION.gif)
 
+![](1-ANIMATION.gif)
+<img   width=" 6000px" src="1-ANIMATION.gif" />
 
 ### Connect with me:
 [<img align="left" alt="website" width=" 60px" src="https://icons.iconarchive.com/icons/ypf/transformers/256/Internet-Explorer-icon.png"/>][website]
