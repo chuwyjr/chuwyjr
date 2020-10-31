@@ -14,6 +14,7 @@
 </div>
 <br/>
 <br/>
+
 ### Current activities 
 
 - 🤔 I'm currently working on a machine learning app!
