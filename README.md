@@ -9,7 +9,8 @@
 - 🌱 Learning in <k style="color:blue">progress.</k>
 - 📂 I looking forward to collaborating with others on projects.
 - 💻 _2020 Goals_ contributing to more Open Source projects.
-<img align="right" alt="GIF" src='1-ANIMATION.gif' width="250" height="160" />
+
+<img align="right" alt="GIF" src='./1-ANIMATION.gif' width="250" height="160" />
 
 ### Connect with me:
 [<img align="left" alt="website" width=" 60px" src="https://icons.iconarchive.com/icons/ypf/transformers/256/Internet-Explorer-icon.png"/>][website]
