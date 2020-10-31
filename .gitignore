@@ -1,6 +1,6 @@
 # exclude folder
 asset/
-*.gif
+
 *.png
 *.jpg
 *.yml
