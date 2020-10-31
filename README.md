@@ -1,7 +1,10 @@
 <div>
 <img src="banner.gif">
+<br/>
+<br/>
 
 ### Media
+
 <div>
 
 [<img align="left" title="website" width=" 50px" src="https://www.flaticon.com/svg/static/icons/svg/235/235230.svg"/>][website]
