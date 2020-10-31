@@ -10,6 +10,7 @@
 
 ![](1-ANIMATION.gif)
 <img   width=" 6000px" src="1-ANIMATION.gif" />
+<img align='right' src="1-ANIMATION.gif" width="230">
 
 ### Connect with me:
 [<img align="left" alt="website" width=" 60px" src="https://icons.iconarchive.com/icons/ypf/transformers/256/Internet-Explorer-icon.png"/>][website]
