@@ -7,7 +7,7 @@
 
 <div>
 
-[<img align="left" title="website" width=" 50px" src="https://www.flaticon.com/svg/static/icons/svg/235/235230.svg"/>][website]
+[<img align="left" title="website" width=" 50px" src="https://cdn-icons-png.flaticon.com/128/1084/1084320.png"/>][website]
 
 [<img align="left" title="Linkedin" width=" 50px" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4"/>][linkedin]
 
