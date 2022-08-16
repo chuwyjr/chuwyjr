@@ -39,7 +39,7 @@
 <img  title="JAVA" width=" 80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
 <img  title="Tensorflow" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/330px-TensorFlowLogo.svg.png">
 <img  title="JULIA" width=" 60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/330px-Julia_Programming_Language_Logo.svg.png"/>
-<img  title="Pandas" width=" 100px" src="https://camo.githubusercontent.com/5cb734f6fc37f645dc900e35559c60d91cc6b550/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667"/>
+<img  title="Pandas" width=" 100px" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png"/>
 <!-- version -->
 <img  title="Git" width=" 60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img  title="GitHub" width=" 60px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
